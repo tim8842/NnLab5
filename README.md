@@ -1,2 +1,2 @@
 # NnLab5
-work from institution
+work for institution
